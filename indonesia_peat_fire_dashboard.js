@@ -3,7 +3,7 @@
  * Period: 1 October 2025 through 30 October 2026 UTC.
  * Paste the whole file in a NEW Earth Engine script and press Run.
  * No drawn geometry is needed. Indonesia is the default selection.
- *
+ * Developed by Rizki Atthoriq Hidayat. Email: rizkiatthoriq99@gmail.com
  * Descriptive monitoring, not a calibrated fire-risk or smoke-exposure model.
  * The FIRMS source is a raster of ~1 km MODIS detection pixels, not a vector
  * fire-perimeter or an independent-fire count. Confidence >95 is an algorithm
