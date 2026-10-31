@@ -3,6 +3,10 @@
 A Google Earth Engine Code Editor dashboard for exploring where high-confidence MODIS active-fire detection pixels occur on mapped Indonesian peatland. It compares individual months with a cumulative Gaussian-smoothed density surface from October 2025 through October 2026, and places rainfall, burned area, land cover, and nearby residential population in context.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe1f02c-85e0-46c9-a9d4-43bc8e677a4f" />
 This is a **descriptive portfolio analysis**. It does not predict fire, trace the path of an individual fire, measure burn severity, or estimate smoke exposure.
+<img width="250" height="140" alt="Sumsel" src="https://github.com/user-attachments/assets/4ef46647-5166-4b13-b84c-66f6d9e23de0" /><img width="250" height="140" alt="Kalteng" src="https://github.com/user-attachments/assets/67fceb29-aecb-45e3-a1e3-1604aaa4c5f7" /><img width="250" height="140" alt="Papsel" src="https://github.com/user-attachments/assets/e8511dd2-c49a-4d97-9d90-b7388e66e307" />
+
+
+
 
 ## Run it
 
