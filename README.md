@@ -1,7 +1,7 @@
 # Indonesia peatland fire activity dashboard
 
 A Google Earth Engine Code Editor dashboard for exploring where high-confidence MODIS active-fire detection pixels occur on mapped Indonesian peatland. It compares individual months with a cumulative Gaussian-smoothed density surface from October 2025 through October 2026, and places rainfall, burned area, land cover, and nearby residential population in context.
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe1f02c-85e0-46c9-a9d4-43bc8e677a4f" />
 This is a **descriptive portfolio analysis**. It does not predict fire, trace the path of an individual fire, measure burn severity, or estimate smoke exposure.
 
 ## Run it
